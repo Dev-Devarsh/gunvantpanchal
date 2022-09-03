@@ -47,7 +47,7 @@
 
 
 
-- 👨‍💻 **Full-Stack Developer**\
+- 👨‍💻 **Dumb Developer**\
 📆 2022 - moment\
 📍 **NR CREW** - Ahmedabad, Gujarat
   
